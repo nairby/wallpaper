@@ -19,3 +19,8 @@ https://www.bing.com/search?q=great+barrier+reef+australia&form=hpcapt&filters=H
 29 Jul 2021
 
 https://www.bing.com/search?q=international+tiger+day&form=hpcapt&filters=HpDate:%2220210728_2300%22
+
+4 Aug 2021
+
+https://www.bing.com/search?q=Clouded+leopard&form=hpcapt&filters=HpDate:%2220210803_2300%22
+
