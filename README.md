@@ -24,3 +24,6 @@ https://www.bing.com/search?q=international+tiger+day&form=hpcapt&filters=HpDate
 
 https://www.bing.com/search?q=Clouded+leopard&form=hpcapt&filters=HpDate:%2220210803_2300%22
 
+8 Aug 2021
+
+https://www.bing.com/search?q=Elizabeth+Quay+Bridge&form=hpcapt&filters=HpDate:%2220210807_2300%22
