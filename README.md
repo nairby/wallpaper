@@ -31,3 +31,7 @@ https://www.bing.com/search?q=Elizabeth+Quay+Bridge&form=hpcapt&filters=HpDate:%
 9 Aug 2021
 
 https://www.bing.com/search?q=ngatoroirangi+mine+bay+rock+carving+lake+taupo&FORM=hpcapt&filters=HpDate:%2220210808_2300%22
+
+11 Aug 2021
+
+https://www.bing.com/search?q=perseid+meteor+shower&form=hpcapt&filters=HpDate:%2220210810_2300%22
