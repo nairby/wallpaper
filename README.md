@@ -35,3 +35,7 @@ https://www.bing.com/search?q=ngatoroirangi+mine+bay+rock+carving+lake+taupo&FOR
 11 Aug 2021
 
 https://www.bing.com/search?q=perseid+meteor+shower&form=hpcapt&filters=HpDate:%2220210810_2300%22
+
+12 Aug 2021
+
+https://www.bing.com/search?q=african+bush+elephant&form=hpcapt&filters=HpDate:%2220210811_2300%22
