@@ -43,3 +43,7 @@ https://www.bing.com/search?q=african+bush+elephant&form=hpcapt&filters=HpDate:%
 13 Aug 2021
 
 https://www.bing.com/search?q=horned+ghost+crab&form=hpcapt&filters=HpDate:%2220210812_2300%22
+
+23 Aug 2021
+
+https://www.bing.com/search?q=little+blue+heron&form=hpcapt&filters=HpDate:%2220210822_2300%22
