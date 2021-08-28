@@ -51,3 +51,7 @@ https://www.bing.com/search?q=little+blue+heron&form=hpcapt&filters=HpDate:%2220
 26 Aug 2021
 
 https://www.bing.com/search?q=Glaucus+atlanticus&form=hpcapt&filters=HpDate:%2220210826_0700%22
+
+28 Aug 2021
+
+https://www.bing.com/search?q=red-billed+oxpecker&form=hpcapt&filters=HpDate:%2220210827_2300%22
