@@ -55,3 +55,7 @@ https://www.bing.com/search?q=Glaucus+atlanticus&form=hpcapt&filters=HpDate:%222
 28 Aug 2021
 
 https://www.bing.com/search?q=red-billed+oxpecker&form=hpcapt&filters=HpDate:%2220210827_2300%22
+
+30 Aug 2021
+
+https://www.bing.com/search?q=Mount+Mayon+Luzon+Philippines&form=hpcapt&filters=HpDate:%2220210829_2300%22
