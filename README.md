@@ -59,3 +59,15 @@ https://www.bing.com/search?q=red-billed+oxpecker&form=hpcapt&filters=HpDate:%22
 30 Aug 2021
 
 https://www.bing.com/search?q=Mount+Mayon+Luzon+Philippines&form=hpcapt&filters=HpDate:%2220210829_2300%22
+
+2 Sep 2021
+
+https://www.bing.com/search?q=Porto+Flavia+Sardinia+Italy&form=hpcapt&filters=HpDate:%2220210901_2300%22
+
+3 Sep 2021
+
+https://www.bing.com/search?q=Bisti%2fDe-Na-Zin+Wilderness&form=hpcapt&filters=HpDate:%2220210902_2300%22
+
+4 Sep 2021
+
+https://www.bing.com/search?q=anna%27s+hummingbird&form=hpcapt&filters=HpDate:%2220210903_2300%22
