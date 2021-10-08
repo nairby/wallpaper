@@ -87,3 +87,7 @@ https://www.bing.com/search?q=wood+bison&form=hpcapt&filters=HpDate:%2220210928_
 4 Oct 2021
 
 https://www.bing.com/search?q=andromeda+galaxy&form=hpcapt&filters=HpDate:%2220211003_2300%22
+
+8 Oct 2021
+
+https://www.bing.com/search?q=common+octopus&form=hpcapt&filters=HpDate:%2220211007_2300%22
