@@ -95,3 +95,7 @@ https://www.bing.com/search?q=common+octopus&form=hpcapt&filters=HpDate:%2220211
 10 Oct 2021
 
 https://www.bing.com/search?q=haliotis+iris&form=hpcapt&filters=HpDate:%2220211009_2300%22
+
+13 Oct 2021
+
+https://www.bing.com/search?q=Fossils+prehistoric&form=hpcapt&filters=HpDate:%2220211012_2300%22
