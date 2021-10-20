@@ -103,3 +103,7 @@ https://www.bing.com/search?q=Fossils+prehistoric&form=hpcapt&filters=HpDate:%22
 19 Oct 2021
 
 https://www.bing.com/search?q=madeira+laurisilva&form=hpcapt&filters=HpDate:%2220211018_2300%22
+
+20 Oct 2021
+
+https://www.bing.com/search?q=sloth&form=hpcapt&filters=HpDate:%2220211019_2300%22
