@@ -107,3 +107,7 @@ https://www.bing.com/search?q=madeira+laurisilva&form=hpcapt&filters=HpDate:%222
 20 Oct 2021
 
 https://www.bing.com/search?q=sloth&form=hpcapt&filters=HpDate:%2220211019_2300%22
+
+21 Oct 2021
+
+https://www.bing.com/search?q=Otter+lutra+lutra&form=hpcapt&filters=HpDate:%2220211020_2300%22
