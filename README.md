@@ -111,3 +111,7 @@ https://www.bing.com/search?q=sloth&form=hpcapt&filters=HpDate:%2220211019_2300%
 21 Oct 2021
 
 https://www.bing.com/search?q=Otter+lutra+lutra&form=hpcapt&filters=HpDate:%2220211020_2300%22
+
+23 Oct 2021
+
+https://www.bing.com/search?q=eurasian+scops+owl&form=hpcapt&filters=HpDate:%2220211022_2300%22
