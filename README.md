@@ -119,3 +119,19 @@ https://www.bing.com/search?q=jasper+national+park+dark+sky+festival&form=hpcapt
 23 Oct 2021
 
 https://www.bing.com/search?q=eurasian+scops+owl&form=hpcapt&filters=HpDate:%2220211022_2300%22
+
+29 Oct 2021
+
+https://www.bing.com/search?q=raven+bird&form=hpcapt&filters=HpDate:%2220211028_2300%22
+
+31 Oct 2021
+
+https://www.bing.com/search?q=grotesque+architecture&form=hpcapt&filters=HpDate:%2220211030_2300%22
+
+1 Nov 2021
+
+https://www.bing.com/search?q=Dartmoor&form=hpcapt&filters=HpDate:%2220211101_0000%22
+
+3 Nov 2021
+
+https://www.bing.com/search?q=world+jellyfish+day&form=hpcapt&filters=HpDate:%2220211103_0000%22
