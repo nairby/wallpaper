@@ -132,6 +132,10 @@ https://www.bing.com/search?q=grotesque+architecture&form=hpcapt&filters=HpDate:
 
 https://www.bing.com/search?q=Dartmoor&form=hpcapt&filters=HpDate:%2220211101_0000%22
 
+2 Nov 2021
+
+https://www.bing.com/search?q=B%c3%a9casseau+sanderling&form=hpcapt&filters=HpDate:%2220211031_2300%22
+
 3 Nov 2021
 
 https://www.bing.com/search?q=world+jellyfish+day&form=hpcapt&filters=HpDate:%2220211103_0000%22
