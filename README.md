@@ -139,3 +139,7 @@ https://www.bing.com/search?q=B%c3%a9casseau+sanderling&form=hpcapt&filters=HpDa
 3 Nov 2021
 
 https://www.bing.com/search?q=world+jellyfish+day&form=hpcapt&filters=HpDate:%2220211103_0000%22
+
+8 Nov 2021
+
+https://www.bing.com/search?q=polar+bear&form=hpcapt&filters=HpDate:%2220211108_0000%22
