@@ -143,3 +143,7 @@ https://www.bing.com/search?q=world+jellyfish+day&form=hpcapt&filters=HpDate:%22
 8 Nov 2021
 
 https://www.bing.com/search?q=polar+bear&form=hpcapt&filters=HpDate:%2220211108_0000%22
+
+15 Nov 2021
+
+https://www.bing.com/search?q=manatee&form=hpcapt&filters=HpDate:%2220211115_0000%22
