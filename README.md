@@ -151,3 +151,7 @@ https://www.bing.com/search?q=polar+bear&form=hpcapt&filters=HpDate:%2220211108_
 15 Nov 2021
 
 https://www.bing.com/search?q=manatee&form=hpcapt&filters=HpDate:%2220211115_0000%22
+
+25 Nov 2021
+
+https://www.bing.com/search?q=eurasian+red+squirrel&form=hpcapt&filters=HpDate:%2220211125_0000%22
