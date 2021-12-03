@@ -159,3 +159,7 @@ https://www.bing.com/search?q=Ammonoidea&form=hpcapt&filters=HpDate:%2220211123_
 25 Nov 2021
 
 https://www.bing.com/search?q=eurasian+red+squirrel&form=hpcapt&filters=HpDate:%2220211125_0000%22
+
+3 Dec 2021
+
+https://www.bing.com/search?q=Glastonbury+Tor+landmark&form=hpcapt&filters=HpDate:%2220211203_0000%22
