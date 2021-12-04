@@ -163,3 +163,7 @@ https://www.bing.com/search?q=eurasian+red+squirrel&form=hpcapt&filters=HpDate:%
 3 Dec 2021
 
 https://www.bing.com/search?q=Glastonbury+Tor+landmark&form=hpcapt&filters=HpDate:%2220211203_0000%22
+
+4 Dec 2021
+
+https://www.bing.com/search?q=cheetah&form=hpcapt&filters=HpDate:%2220211204_0000%22
