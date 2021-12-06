@@ -1,5 +1,9 @@
 # wallpaper
 
+Getting unadorned image:
+
+http://www.bing.com/HPImageArchive.aspx?format=xml&idx=0&n=1&mkt=en-GB
+
 1 Apr 2021
 
 https://www.bing.com/search?q=elephants&form=hpcapt&filters=HpDate:%2220210331_2300%22
