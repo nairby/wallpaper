@@ -171,3 +171,7 @@ https://www.bing.com/search?q=Glastonbury+Tor+landmark&form=hpcapt&filters=HpDat
 4 Dec 2021
 
 https://www.bing.com/search?q=cheetah&form=hpcapt&filters=HpDate:%2220211204_0000%22
+
+6 Dec 2021
+
+https://www.bing.com/search?q=analytical+engine&form=hpcapt&filters=HpDate:%2220211206_0000%22
