@@ -175,3 +175,7 @@ https://www.bing.com/search?q=cheetah&form=hpcapt&filters=HpDate:%2220211204_000
 6 Dec 2021
 
 https://www.bing.com/search?q=analytical+engine&form=hpcapt&filters=HpDate:%2220211206_0000%22
+
+29 DEc 2021
+
+https://www.bing.com/search?q=Oreamnos+americanus&form=hpcapt&filters=HpDate:%2220211229_0000%22
