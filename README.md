@@ -179,3 +179,7 @@ https://www.bing.com/search?q=analytical+engine&form=hpcapt&filters=HpDate:%2220
 29 DEc 2021
 
 https://www.bing.com/search?q=Oreamnos+americanus&form=hpcapt&filters=HpDate:%2220211229_0000%22
+
+11 Jan 2022
+
+https://www.bing.com/search?q=new+world+porcupine&form=hpcapt&filters=HpDate:%2220220111_0000%22
