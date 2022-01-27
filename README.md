@@ -187,3 +187,7 @@ https://www.bing.com/search?q=new+world+porcupine&form=hpcapt&filters=HpDate:%22
 12 Jan 2022
 
 https://www.bing.com/search?q=Mount+Fanjing&form=hpcapt&filters=HpDate:%2220220112_0000%22
+
+27 Jan 2022
+
+https://www.bing.com/search?q=plate+billed+mountain+toucan&form=hpcapt&filters=HpDate:%2220220127_0000%22
