@@ -211,3 +211,7 @@ https://www4.bing.com/search?q=caracal&form=hpcapt&filters=HpDate:%2220220409_23
 31 May 2022
 
 https://www.bing.com/search?q=Scarlet+macaw&form=hpcapt&filters=HpDate:%2220220530_2300%22
+
+1 Jun 2022
+
+https://www.bing.com/search?q=Marovo+Lagoon+Solomon+Islands&form=hpcapt&filters=HpDate:%2220220531_2300%22
