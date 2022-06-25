@@ -215,3 +215,7 @@ https://www.bing.com/search?q=Scarlet+macaw&form=hpcapt&filters=HpDate:%22202205
 1 Jun 2022
 
 https://www.bing.com/search?q=Marovo+Lagoon+Solomon+Islands&form=hpcapt&filters=HpDate:%2220220531_2300%22
+
+25 Jun 2022
+
+https://www.bing.com/search?q=brown+bear+ursus+arctos&form=hpcapt&filters=HpDate:%2220220624_2300%22
