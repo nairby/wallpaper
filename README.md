@@ -4,6 +4,14 @@ Getting unadorned image:
 
 http://www.bing.com/HPImageArchive.aspx?format=xml&idx=0&n=1&mkt=en-GB
 
+Can also use a bit of PowerShell:
+
+irm "bing.com$((irm "bing.com/HPImageArchive.aspx?format=js&mkt=en-IN&n=1").images[0].url)" -OutFile bing0.jpg
+
+[https://stackoverflow.com/a/42294596/7147183]
+
+Previous images can be retrieved by increasing n
+
 1 Apr 2021
 
 https://www.bing.com/search?q=elephants&form=hpcapt&filters=HpDate:%2220210331_2300%22
