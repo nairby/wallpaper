@@ -239,3 +239,15 @@ https://www.bing.com/search?q=Lemon+Shark&form=hpcapt&filters=HpDate:%2220220713
 29 JUl 2022
 
 https://www.bing.com/search?q=international+tiger+day&form=hpcapt&filters=HpDate:%2220220728_2300%22
+
+30 Sep 2022
+
+https://www.bing.com/search?q=Southern+right+whale&form=hpcapt&filters=HpDate:%2220220929_2300%22
+
+4 Oct 2022
+
+https://www.bing.com/search?q=world+space+week&form=hpcapt&filters=HpDate:%2220221003_2300%22
+
+5 Oct 2022
+
+https://www.bing.com/search?q=world+teachers+day&form=hpcapt&filters=HpDate:%2220221004_2300%22
