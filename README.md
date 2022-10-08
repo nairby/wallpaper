@@ -251,3 +251,7 @@ https://www.bing.com/search?q=world+space+week&form=hpcapt&filters=HpDate:%22202
 5 Oct 2022
 
 https://www.bing.com/search?q=world+teachers+day&form=hpcapt&filters=HpDate:%2220221004_2300%22
+
+8 Oct 2022
+
+https://www.bing.com/search?q=octopus+mollusc&form=hpcapt&filters=HpDate:%2220221007_2300%22
