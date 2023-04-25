@@ -255,3 +255,7 @@ https://www.bing.com/search?q=world+teachers+day&form=hpcapt&filters=HpDate:%222
 8 Oct 2022
 
 https://www.bing.com/search?q=octopus+mollusc&form=hpcapt&filters=HpDate:%2220221007_2300%22
+
+25 Apr 2023
+
+https://www.bing.com/search?q=adelie+penguins&form=hpcapt&filters=HpDate:%2220230424_2300%22
