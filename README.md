@@ -259,3 +259,8 @@ https://www.bing.com/search?q=octopus+mollusc&form=hpcapt&filters=HpDate:%222022
 25 Apr 2023
 
 https://www.bing.com/search?q=adelie+penguins&form=hpcapt&filters=HpDate:%2220230424_2300%22
+
+31 May 2023
+
+https://www.bing.com/search?q=sea+otter&form=hpcapt&filters=HpDate:%2220230530_2300%22
+
